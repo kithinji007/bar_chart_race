@@ -30,6 +30,5 @@ This project generates a bar chart race animation of sales per region using the 
 
 
 
-[Watch the animation]
-(https://github.com/kithinji007/bar_chart_race/assets/42279213/38e820ac-0abf-4843-9f47-e4f2274c99bf)
+[Watch the animation](https://github.com/kithinji007/bar_chart_race/assets/42279213/38e820ac-0abf-4843-9f47-e4f2274c99bf)
 
